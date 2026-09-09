@@ -1,4 +1,3 @@
-```cpp
 #include <SPI.h>
 #include <RF24.h>
 
@@ -363,4 +362,3 @@ void loop() {
     sendLancCmd(currentMode, currentSpeed);
   }
 }
-```
