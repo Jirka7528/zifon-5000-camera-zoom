@@ -18,7 +18,7 @@ The **H** and **V** buttons on the original Zifon controller are used for zoom c
 
 * **H** – Zoom In
 * **V** – Zoom Out
-
+![Original Zifon 5000 controller](zifon-controller.jpg)
 Pressing either button on its own generates a wireless command, while the motorized head itself does not react to it.
 
 This makes it possible to use the H and V buttons for zoom control without interfering with the original operation of the Zifon head.
@@ -113,11 +113,10 @@ The project uses:
 
 The schematic shows the connection between the **Arduino Pro Micro**, **NRF24L01**, and the camera's **LANC interface**.
 
-<!-- After uploading the image to the images folder, use for example:
 
-![Zifon 5000 Camera Zoom Controller schematic](images/schematic.png)
 
--->
+![Zifon 5000 Camera Zoom Controller schematic](schematic.png)
+
 
 ---
 
@@ -125,13 +124,13 @@ The schematic shows the connection between the **Arduino Pro Micro**, **NRF24L01
 
 Prototype and completed hardware implementation:
 
-<!-- Add your photos here, for example:
 
-![Zifon 5000 zoom controller prototype](images/prototype.jpg)
 
-![Completed hardware](images/hardware.jpg)
+![Zifon 5000 Camera Zoom Controller prototype](prototype.jpg)
 
--->
+
+
+
 
 ---
 
@@ -187,6 +186,7 @@ https://github.com/jdesbonnet/zifon_pt5000
 
 The information provided by this project was an important starting point for my own experiments and further analysis.
 
+![Zifon 5000 Camera Zoom Controller completed hardware](finished-hardware.jpg)
 ---
 
 ## Disclaimer
