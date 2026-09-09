@@ -198,3 +198,9 @@ This is an independent experimental DIY project and is not affiliated with, endo
 The project involves reverse engineering and modification of electronic hardware.
 
 All information is provided for experimental and educational purposes. Use it at your own risk.
+
+## License
+
+This project is licensed under the MIT License.
+
+See the [LICENSE](LICENSE) file for details.
