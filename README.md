@@ -18,6 +18,7 @@ The **H** and **V** buttons on the original Zifon controller are used for zoom c
 
 * **H** – Zoom In
 * **V** – Zoom Out
+* 
 ![Original Zifon 5000 controller](zifon-controller.jpg)
 
 Pressing either button on its own generates a wireless command, while the motorized head itself does not react to it.
@@ -188,7 +189,7 @@ https://github.com/jdesbonnet/zifon_pt5000
 The information provided by this project was an important starting point for my own experiments and further analysis.
 
 ![Zifon 5000 Camera Zoom Controller completed hardware](finished-hardware.jpg)
----
+
 
 ## Disclaimer
 
